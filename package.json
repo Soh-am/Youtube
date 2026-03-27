@@ -1,0 +1,17 @@
+{
+  "name": "soham-aur-backend",
+  "version": "1.0.0",
+  "description": "A backend web app",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "\"Soham Bhattacharjee\"",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
