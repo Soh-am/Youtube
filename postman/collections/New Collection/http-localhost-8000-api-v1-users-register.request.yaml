@@ -4,5 +4,13 @@ url: http://localhost:8000/api/v1/users/register
 method: POST
 body:
   type: json
-  content: ""
+  content: "{\r
+
+    \    \"name\": \"Test User\",\r
+
+    \    \"email\": \"test@example.com\",\r
+
+    \    \"password\": \"password123\"\r
+
+    }"
 order: 408328060671833
